@@ -9,17 +9,8 @@ This repository contains the coursework for the **Amazon Company Review** projec
 
 ---
 
-F21AA_TEXTANALYSTICS/
-├── data/
-│   ├── raw/                # Raw data collected from Reddit
-│   └── processed/          # Processed data ready for analysis
-├── notebooks/              # Jupyter notebooks for exploratory analysis and experiments
-├── src/                    # Source code for data collection, preprocessing, analytics, and modeling
-│   ├── Python Code         # Script 
-├── reports/                # Generated reports and visualizations
-├── docs/                   # Documentation, including the research summary on the history of NLP
-├── README.md               # Project overview and instructions
-└── requirements.txt        # List of Python dependencies
+## File structure F21AA_Kaggle_Amazon_Review/
+
 
 
 ## Table of Contents
